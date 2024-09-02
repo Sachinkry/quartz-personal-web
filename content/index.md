@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: hey there
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[calvin-hobbes-twitter-banner.jpg]]
+
+this is **sachin yadav**. It's great to have you here, anon. come on in and explore my digital realm.
+
+it's an attempt to log everything i indulge myself with. 
+- [[projects]]
+- [notes](/notes)
+- [what-did-you-get-done-this-week?](/what-did-you-get-done-this-week)

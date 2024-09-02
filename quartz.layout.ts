@@ -7,8 +7,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/Sachinkry/",
+      "Twitter": "https://twitter.com/SachinKry",
+      "Email": "mailto:heysachinky@gmail.com"
     },
   }),
 }
@@ -16,6 +17,10 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+
+    // Component.PageTitle(),
+    // Component.Search(),
+    // Component.Darkmode(),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -23,9 +28,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    Component.Spacer(),
     Component.Search(),
     Component.Darkmode(),
+    Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [

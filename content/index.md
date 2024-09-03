@@ -1,7 +1,6 @@
 ---
 title: hey there
 ---
-
 ![[calvin-hobbes-twitter-banner.jpg]]
 
 this is **sachin yadav**. It's great to have you here, anon. come on in and explore my digital realm.

@@ -9,7 +9,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/Sachinkry/",
       "Twitter": "https://twitter.com/SachinKry",
-      "Email": "mailto:heysachinky@gmail.com"
+      "Email": "mailto:heysachinky@gmail.com",
+      "Substack": "https://sagepanda.substack.com/"
     },
   }),
 }

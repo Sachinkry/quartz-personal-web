@@ -9,4 +9,4 @@ this is **sachin yadav**. It's great to have you here, anon. come on in and expl
 it's an attempt to log everything i indulge myself with. 
 - [[projects]]
 - [notes](/notes)
-- [what-did-you-get-done-this-week?](/what-did-you-get-done-this-week)
+- [what did you get done this week?](/weekly-wins)
